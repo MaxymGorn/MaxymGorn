@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![snake animation](https://github.com/MaxymGorn/MaxymGorn/blob/output/github-contribution-grid-snake2.svg)
+
 ![Maxym Gornytskiy GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxymGorn&show_icons=true&count_private=true&theme=radical&hide=stars,issues)
 
 ###
