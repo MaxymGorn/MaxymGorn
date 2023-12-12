@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-![snake animation](https://github.com/MaxymGorn/MaxymGorn/blob/output/github-contribution-grid-snake2.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ![Maxym Gornytskiy GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxymGorn&show_icons=true&count_private=true&theme=radical&hide=stars,issues)
 
