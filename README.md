@@ -11,8 +11,8 @@
 
 <p align="center">
 <br>
-  <a href="https://github-readme-stats-sigma-five.vercel.app/api?username=MaxymGorn&show_icons=true&theme=tokyonight">
-    <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MaxymGorn&count_private=true&show_icons=true&theme=tokyonight" />
+  <a href="[https://github-readme-stats-sigma-five.vercel.app/api?username=MaxymGorn&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=MaxymGorn&show_icons=true&count_private=true&theme=radical&hide=stars,issues)">
+    <img width="400" src="[https://github-readme-stats-sigma-five.vercel.app/api?username=MaxymGorn&count_private=true&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=MaxymGorn&show_icons=true&count_private=true&theme=radical&hide=stars,issues)" />
   </a>
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=MaxymGorn&theme=tokyonight">
     <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=MaxymGorn&theme=tokyonight" />
