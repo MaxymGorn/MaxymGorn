@@ -1,5 +1,9 @@
 <h1> Hey, I’m Maksym!</h1>
 
+<a href="https://www.linkedin.com/in/maxym-gornytskiy/">
+  <img align="left" alt="Maksym | LinkedIN" width="30" src="https://www.svgrepo.com/show/448234/linkedin.svg" />
+</a>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=MaxymGorn&color=lightgrey)
 
 <hr>
