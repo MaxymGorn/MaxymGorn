@@ -20,7 +20,6 @@
     <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxymGorn&layout=compact&count_private=true&langs_count=6&theme=radical" /> 
   </a>
 </p>
-
 <h1>Github Contribution✨<h1>
   
 ![snake gif](https://github.com/MaxymGorn/MaxymGorn/blob/output/github-contribution-grid-snake.svg)
