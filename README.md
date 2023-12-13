@@ -12,7 +12,7 @@
 <p align="center">
 <br>
   <a href="https://github-readme-stats.vercel.app/api?username=MaxymGorn&count_private=true&include_all_commits=true&hide=stars,issues&show_icons=true&theme=react&hide_border=true&title_color=36bdff&icon_color=0077ff">
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=MaxymGorn&count_private=true&include_all_commits=true&hide=stars,issues&show_icons=true&theme=react&hide_border=true&title_color=36bdff&icon_color=0077ff" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=MaxymGorn&count_private=true&include_all_commits=true&hide=stars,issues&show_icons=true&theme=react&hide_border=true&title_color=36bdff&icon_color=0077ff&theme=tokyonight" />
   </a>
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=MaxymGorn&theme=tokyonight">
     <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=MaxymGorn&theme=tokyonight" />
